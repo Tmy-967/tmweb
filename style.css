@@ -4,3 +4,15 @@
   text-align:center;
   padding:20px;
 }
+.ntd2{
+  background-color:#1B1DBD;
+  color:#FFFBFB;
+  display:block;
+  padding:5px;
+}
+.ntd2 a{
+  color:#FFFBFB;
+}
+.ntd2 a:hover{
+  background-color:#E80E2B;
+}
